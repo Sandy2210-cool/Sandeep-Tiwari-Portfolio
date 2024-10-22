@@ -37,10 +37,12 @@ Custom Web & App Development.
 
 Projects
 
-GlamCode:- https://play.google.com/store/apps/details?id=com.glamcode.app&hl=en
+GlamCode(PlayStore):- https://play.google.com/store/apps/details?id=com.glamcode.app&hl=en
+GlamCode(AppStore):- https://apps.apple.com/in/app/glamcode/id6449648391
 HairValet:- https://play.google.com/store/apps/details?id=com.app.hairvalet&hl=en
 CryptoShrypto:- https://play.google.com/store/apps/details?id=com.cryptoshrypto&hl=en
-SeaPeople :- https://play.google.com/store/apps/details?id=com.seapeopleapp.seapeople&pli=1
+SeaPeople(PlayStore) :- https://play.google.com/store/apps/details?id=com.seapeopleapp.seapeople&pli=1
+Seapeople(AppStore) :- https://apps.apple.com/us/app/seapeople/id6447652420
 Weather Co-op:- https://www.weatherco-op.com/
 ```
 
